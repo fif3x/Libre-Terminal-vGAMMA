@@ -5,3 +5,5 @@ This is a Free and Open-Source Software (FOSS) that allows its users to use shel
 You may customize the software however you want
 
 In case you would like to contact the creator, feel free to text me in Discord (@fif3x_)
+
+# YOU NEED THE C++ LIBRARIES!
